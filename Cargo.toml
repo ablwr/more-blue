@@ -1,0 +1,7 @@
+[package]
+name = "more-blue"
+version = "0.6.66"
+authors = ["Ashley Blewer!"]
+
+[dependencies]
+y4m = "0.2.0"
